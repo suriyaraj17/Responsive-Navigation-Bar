@@ -2,8 +2,6 @@
 
 A fully responsive navigation bar that collapses into a hamburger menu on mobile devices.
 
-![Demo Screenshot](https://via.placeholder.com/600x400?text=Navbar+Demo)
-
 ## Features
 - Responsive design (desktop, tablet, mobile)
 - Bootstrap 5 implementation
